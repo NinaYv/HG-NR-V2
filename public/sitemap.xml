@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post1/</loc>
+    <loc>/posts/post1/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/design/</loc>
+    <loc>/tags/design/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/design/</loc>
+    <loc>/categories/design/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/style/</loc>
+    <loc>/categories/style/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post2/</loc>
+    <loc>/posts/post2/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/emoji/</loc>
+    <loc>/tags/emoji/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/fashion/</loc>
+    <loc>/categories/fashion/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post3/</loc>
+    <loc>/posts/post3/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/interesting/</loc>
+    <loc>/categories/interesting/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/beauty/</loc>
+    <loc>/categories/beauty/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ideas/</loc>
+    <loc>/tags/ideas/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/ideas/</loc>
+    <loc>/categories/ideas/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post4/</loc>
+    <loc>/posts/post4/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post5/</loc>
+    <loc>/posts/post5/</loc>
     <lastmod>2024-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post6/</loc>
+    <loc>/posts/post6/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/nature/</loc>
+    <loc>/categories/nature/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/creative/</loc>
+    <loc>/categories/creative/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post7/</loc>
+    <loc>/posts/post7/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/flower/</loc>
+    <loc>/categories/flower/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post8/</loc>
+    <loc>/posts/post8/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/pure/</loc>
+    <loc>/tags/pure/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/pure/</loc>
+    <loc>/categories/pure/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post9/</loc>
+    <loc>/posts/post9/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/creation/</loc>
+    <loc>/categories/creation/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/magic/</loc>
+    <loc>/tags/magic/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/magic/</loc>
+    <loc>/categories/magic/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post10/</loc>
+    <loc>/posts/post10/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/photo/</loc>
+    <loc>/categories/photo/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/amazing/</loc>
+    <loc>/categories/amazing/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post11/</loc>
+    <loc>/posts/post11/</loc>
     <lastmod>2024-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pages/</loc>
+    <loc>/pages/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2019-08-25T00:52:59+03:00</lastmod>
   </url>
 </urlset>
