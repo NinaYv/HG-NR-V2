@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Just Simple</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Welcome on Just Simple</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a New Design</title>
-      <link>//localhost:1313/posts/post1/</link>
+      <link>/posts/post1/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post1/</guid>
+      <guid>/posts/post1/</guid>
       <description>Just Simple, Just Pure. Artistic Creation.&#xA;Fashion Pure Flowers Magic Creation </description>
     </item>
     <item>
       <title>Art Design</title>
-      <link>//localhost:1313/posts/post2/</link>
+      <link>/posts/post2/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post2/</guid>
+      <guid>/posts/post2/</guid>
       <description>New Ideas, New Inspirations. Artistic Creation.&#xA;Splendid Beautiful Magnificent Adjective Passion </description>
     </item>
     <item>
       <title>Beautiful Performance</title>
-      <link>//localhost:1313/posts/post3/</link>
+      <link>/posts/post3/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post3/</guid>
+      <guid>/posts/post3/</guid>
       <description>New Performance, New Production. Artistic Creation.&#xA;Fashion Pure Flowers Magic Creation </description>
     </item>
     <item>
       <title>The Wonders Of Nature</title>
-      <link>//localhost:1313/posts/post4/</link>
+      <link>/posts/post4/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post4/</guid>
+      <guid>/posts/post4/</guid>
       <description>Natural Beauty, Real Beauty. Artistic Creation.&#xA;Splendid Beautiful Magnificent Adjective Passion </description>
     </item>
     <item>
       <title>Continuous Evolution</title>
-      <link>//localhost:1313/posts/post5/</link>
+      <link>/posts/post5/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post5/</guid>
+      <guid>/posts/post5/</guid>
       <description>Wonderful Changes, Wonderful Rhythm. Artistic Creation.&#xA;Fashion Pure Flowers Magic Creation </description>
     </item>
     <item>
       <title>Diversity of Learning</title>
-      <link>//localhost:1313/posts/post6/</link>
+      <link>/posts/post6/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post6/</guid>
+      <guid>/posts/post6/</guid>
       <description>Learn Wxcellent Knowledge. Artistic Creation.&#xA;Splendid Beautiful Magnificent Adjective Passion </description>
     </item>
     <item>
       <title>Explore Something New</title>
-      <link>//localhost:1313/posts/post7/</link>
+      <link>/posts/post7/</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post7/</guid>
+      <guid>/posts/post7/</guid>
       <description>Explore New Knowledge. Artistic Creation.&#xA;Pure Flowers Magic Creation </description>
     </item>
     <item>
       <title>Interesting Features</title>
-      <link>//localhost:1313/posts/post8/</link>
+      <link>/posts/post8/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post8/</guid>
+      <guid>/posts/post8/</guid>
       <description>Interesting And Amazing. Artistic Creation.&#xA;Splendid Beautiful Magnificent Adjective Passion </description>
     </item>
     <item>
       <title>Combining Excellence</title>
-      <link>//localhost:1313/posts/post9/</link>
+      <link>/posts/post9/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post9/</guid>
+      <guid>/posts/post9/</guid>
       <description>Inheriting Excellent Culture. Artistic Creation.&#xA;Pure Flowers Magic Creation </description>
     </item>
     <item>
       <title>Art And Development</title>
-      <link>//localhost:1313/posts/post10/</link>
+      <link>/posts/post10/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post10/</guid>
+      <guid>/posts/post10/</guid>
       <description>Development Of Creation. Artistic Creation.&#xA;Splendid Beautiful Magnificent Adjective Passion </description>
     </item>
     <item>
       <title>Beautiful Visual Experience</title>
-      <link>//localhost:1313/posts/post11/</link>
+      <link>/posts/post11/</link>
       <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/post11/</guid>
+      <guid>/posts/post11/</guid>
       <description>Beautiful Design. Artistic Creation.&#xA;Pure Flowers Magic Creation </description>
     </item>
     <item>
       <title>About Developer</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>Just Simple, Just Pure. The Creative Design. Interesting And Amazing.</description>
     </item>
   </channel>
