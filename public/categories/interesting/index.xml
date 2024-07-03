@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interesting on Just Simple</title>
+    <link>/categories/interesting/</link>
+    <description>Recent content in Interesting on Just Simple</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/interesting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beautiful Performance</title>
+      <link>/posts/post3/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/post3/</guid>
+      <description>New Performance, New Production. Artistic Creation.&#xA;Fashion Pure Flowers Magic Creation </description>
+    </item>
+  </channel>
+</rss>
