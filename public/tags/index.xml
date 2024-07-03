@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Just Simple</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Just Simple</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>/tags/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>/tags/emoji/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>/tags/ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pure</title>
+      <link>/tags/pure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/pure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magic</title>
+      <link>/tags/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/magic/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
