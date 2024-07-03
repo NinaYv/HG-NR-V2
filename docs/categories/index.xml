@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Just Simple</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Just Simple</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>/categories/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Style</title>
+      <link>/categories/style/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/style/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fashion</title>
+      <link>/categories/fashion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/fashion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interesting</title>
+      <link>/categories/interesting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/interesting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beauty</title>
+      <link>/categories/beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/beauty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>/categories/ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature</title>
+      <link>/categories/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/nature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creative</title>
+      <link>/categories/creative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/creative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flower</title>
+      <link>/categories/flower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/flower/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pure</title>
+      <link>/categories/pure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/pure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creation</title>
+      <link>/categories/creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/creation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magic</title>
+      <link>/categories/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/magic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photo</title>
+      <link>/categories/photo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amazing</title>
+      <link>/categories/amazing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/amazing/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
